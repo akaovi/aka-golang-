@@ -115,8 +115,8 @@ package main
 
 import (
 	"fmt"
-	"go_code/fetch2/bar"
-	"go_code/fetch2/util"
+	"go_code/p_spider/bar"
+	"go_code/p_spider/util"
 	"log"
 	"os"
 	"path/filepath"
